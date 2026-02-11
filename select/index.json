@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋は世界定理と共に",
+  "base_artist": "DIALOGUE+",
+  "createdAt": "2026-02-11T09:42:54.836518Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋は世界定理と共に",
+      "artist": "DIALOGUE+",
+      "has_synced": false,
+      "path": "select/pl_01_恋は世界定理と共に_DIALOGUE+.txt"
+    }
+  ]
+}
